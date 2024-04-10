@@ -22,9 +22,15 @@ The following gives brief description about the folders.
 	--> To obtain Fig. 14 & 16 in Section 7
 
 Versions of software and libraries
-1) PTV Vissim 6.0
-2) Python 3.8
-3) Pandas 1.3.3
-4) numpy 1.21.5
-5) matplotlib 3.4.3
-6) PySimpleGUI 4.45
+Versions of software and python libraries
+1) Python 3.8 
+2) pandas 1.3.3
+3) numpy 1.21.5
+4) matplotlib 3.4.3
+5) PySimpleGUI 4.45.0
+6) Pywin32 302
+7) os
+8) re
+9) warnings
+10) datetime
+11) PTV Vissim 6.0
